@@ -27,24 +27,17 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # SQL
 |  Project   |  Description |  Link |
 |---|---|---|
-| E-commerce Store Analysis | Ecommerce project  aimed to help grow the business and analyze performance along the way, worked through powerful analytics deep dives including traffic analysis and optimization, website measure and testing, channel mix, product level performance, user behaviour analysis. |<a href="https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/e-com-store-sql.png" alt="Link" width="1050" height="`180"> </a>|  
-| World's Oldest Businesses | This SQL project  explores data on the world's oldest businesses: when were they founded, and which industries do they belong to? | <a href="https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg" alt="Link" width="600" height="200"> </a>  |
+| E-commerce Store Analysis | Ecommerce project  aimed to help grow the business and analyze performance along the way, worked through powerful analytics deep dives including traffic analysis and optimization, website measure and testing, channel mix, product level performance, user behaviour analysis. |<a href="https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/e-com-store-sql.png" alt="Link" width="1037" height="220"> </a>|  
+| World's Oldest Businesses | This SQL project  explores data on the world's oldest businesses: when were they founded, and which industries do they belong to? | <a href="https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg" alt="Link" width="400" height="220"> </a>  |
  
  </br>
  
 # Excel
 | Project | Description | Link |
 |---|---|---|
-| Operation Revenue Dashboard |Excel Operations Revenue Report Dashboard providing a comprehensive overview of region-wise and year-wise revenue, expense analysis by region year-over-year, sales vs. expenses trend analysis, and operational effectiveness by department, with an emphasis on tracking sales volume trends for data-driven decision-making | <a href="https://github.com/Pranjali-d/Operations-Revenue-Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png" alt="Link" width="1300" height="200"> </a> |
+| Operation Revenue Dashboard |Excel Operations Revenue Report Dashboard providing a comprehensive overview of region-wise and year-wise revenue, expense analysis by region year-over-year, sales vs. expenses trend analysis, and operational effectiveness by department, with an emphasis on tracking sales volume trends for data-driven decision-making | <a href="https://github.com/Pranjali-d/Operations-Revenue-Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png" alt="Link" width="1400" height="250"> </a> |
+| Sales Dashboard | Excel Sales Dashboard for comprehensive sales analysis, profitability assessment, units sold tracking, and trend analysis of sales versus margin. This dynamic dasboard empowers data-driven decisions, optimizing sales performance and profitability. | <a href="https://github.com/Pranjali-d/Sales_Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png" alt="Link" width="1400" height="250"> </a> |
 
-
-| [![Link]( https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png )](https://github.com/Pranjali-d/Sales_Dashbaord) | [![Link]( https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png )](https://github.com/Pranjali-d/Operations-Revenue-Dashbaord)|
-
-
-
-<a href="https://github.com/Pranjali-d/Operations-Revenue-Dashbaord">
-  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png" alt="Link" width="300" height="228">
-</a>
 
 
  
