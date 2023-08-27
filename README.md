@@ -27,29 +27,33 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # SQL
 |  Project   |  Description |  Link |
 |---|---|---|
-| E-commerce Store Analysis | Ecommerce project  aimed to help grow the business and analyze performance along the way, worked through powerful analytics deep dives including traffic analysis and optimization, website measure and testing, channel mix, product level performance, user behaviour analysis. |<a href="https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/e-com-store-sql.png" alt="Link" width="1037" height="220"> </a>|  
-| World's Oldest Businesses | This SQL project  explores data on the world's oldest businesses: when were they founded, and which industries do they belong to? | <a href="https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg" alt="Link" width="400" height="220"> </a>  |
+| E-commerce Store Analysis | Ecommerce project  aimed to help grow the business and analyze performance along the way, worked through powerful analytics deep dives including traffic analysis and optimization, website measure and testing, channel mix, product level performance, user behaviour analysis. |<a href="https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/e-com-store-sql.png" alt="Link" width="" height=""> </a>|  
+| World's Oldest Businesses | This SQL project  explores data on the world's oldest businesses: when were they founded, and which industries do they belong to? | <a href="https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study"> <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg" alt="Link" width="" height=""> </a>  |
  
  </br>
+
+
+
  
 # Excel
 | Project | Description | Link |
 |---|---|---|
-| Operation Revenue Dashboard |Excel Operations Revenue Report Dashboard providing a comprehensive overview of region-wise and year-wise revenue, expense analysis by region year-over-year, sales vs. expenses trend analysis, and operational effectiveness by department, with an emphasis on tracking sales volume trends for data-driven decision-making | <a href="https://github.com/Pranjali-d/Operations-Revenue-Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png" alt="Link" width="1400" height="250"> </a> |
-| Sales Dashboard | Excel Sales Dashboard for comprehensive sales analysis, profitability assessment, units sold tracking, and trend analysis of sales versus margin. This dynamic dasboard empowers data-driven decisions, optimizing sales performance and profitability. | <a href="https://github.com/Pranjali-d/Sales_Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png" alt="Link" width="1400" height="250"> </a> |
+| Operation Revenue Dashboard |Excel Operations Revenue Report Dashboard providing a comprehensive overview of region-wise and year-wise revenue, expense analysis by region year-over-year, sales vs. expenses trend analysis, and operational effectiveness by department, with an emphasis on tracking sales volume trends for data-driven decision-making | <a href="https://github.com/Pranjali-d/Operations-Revenue-Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/operations_revenue_db%20(1).png" alt="Link" width="1800" height="250"> </a> |
+| Sales Dashboard | Excel Sales Dashboard for comprehensive sales analysis, profitability assessment, units sold tracking, and trend analysis of sales versus margin. This dynamic dasboard empowers data-driven decisions, optimizing sales performance and profitability. | <a href="https://github.com/Pranjali-d/Sales_Dashbaord">  <img src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png" alt="Link" width="1800" height="250"> </a> |
 
-
+ </br>
 
  
- </br>
  
 # Virtual Case Experience
-[![PwC-PricewaterhouseCoopers-Logo (1)](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/PwC-PricewaterhouseCoopers-Logo%20(1).jpg)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp)
-
-
-|  Task 1   | Task 2 | Task 3 |
+ [![PwC-PricewaterhouseCoopers-Logo (1)](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/PwC-PricewaterhouseCoopers-Logo%20(1).jpg)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp) 
+ 
+| Task | Description | Link|
 |---|---|---|
-| Call Centre Trend Analysis    &nbsp;   [![Link](https://user-images.githubusercontent.com/49934575/244934563-0e8a843b-ca16-4b23-a012-1a4a09a1c83f.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/01_Call_centre_trends) | Customer Retention [![Link](https://user-images.githubusercontent.com/100661121/237678818-48d1cc92-049d-4392-8e29-8f60b096fd60.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/02_Customer%20retention)| Diversity and Inclusion [![Link](https://user-images.githubusercontent.com/100661121/242836307-7d865f96-024a-4e87-8d06-e4b7dabe76b6.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/03_Diversity_%26_Inclusion)  |
+| <b>  ( Task 1 )  <br />  </br> Call Centre Trend Analysis </b>  |   Dashboard tailored for Call Center Managers, offering an intuitive interface for self-exploration of call trends, comprehensive insights into agent performance and behaviors, and a snapshot of customer satisfaction. The dashboard consolidates a wide array of KPIs and data visualizations, enabling seamless communication with senior management and fostering in-depth analytical discussions with minimal user interaction.    |  [![Link](https://user-images.githubusercontent.com/49934575/244934563-0e8a843b-ca16-4b23-a012-1a4a09a1c83f.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/01_Call_centre_trends) |
+| <b> (Task 2) <br />  </br> Customer Retention </b>  | Customer Retention Dashboard for the Customer Retention Manager, facilitating in-depth exploration of customer demographics and insights, including churn and retention data. The dashboard proactively identifies at-risk customers with specified risk levels and offers a comprehensive array of metrics and visualizations for strategic decisions |  [![Link](https://user-images.githubusercontent.com/100661121/237678818-48d1cc92-049d-4392-8e29-8f60b096fd60.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/02_Customer%20retention)
+| <b> (Task 3) <br /> </br> Diversity and Inclusion </b> | HR Performance Dashboard to assist HR managers in defining and tracking essential KPIs related to hiring, promotion, performance, and turnover. The interactive visualization enables efficient monitoring of critical metrics while identifying potential root causes contributing to a slower improvement in gender balance  |  [![Link](https://user-images.githubusercontent.com/100661121/242836307-7d865f96-024a-4e87-8d06-e4b7dabe76b6.png)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp/tree/main/03_Diversity_%26_Inclusion) |
+
 
 
 
