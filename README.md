@@ -52,7 +52,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
  
  
-# Case Study
+# CaseStudy
  [![PwC-PricewaterhouseCoopers-Logo (1)](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/PwC-PricewaterhouseCoopers-Logo%20(1).jpg)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp) 
  
 | Task | Description | Link|
