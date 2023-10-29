@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ## 📚 Table of Contents
 - [PowerBI](#powerbi)
-- [Virtual Case Experience](#excel)
+- [Case Study](#CaseStudy)
 - [SQL](#sql)
 - [Excel](#excel)
 
@@ -52,7 +52,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
  
  
-# Virtual Case Experience
+# Case Study
  [![PwC-PricewaterhouseCoopers-Logo (1)](https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/PwC-PricewaterhouseCoopers-Logo%20(1).jpg)](https://github.com/Pranjali-d/PWC_Virtual_case_Exp) 
  
 | Task | Description | Link|
