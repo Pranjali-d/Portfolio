@@ -1,6 +1,6 @@
 
 # 🗺 Portfolio
-"Embark on a data-driven journey with my portfolio, where raw numbers transform into compelling narratives, and insights illuminate the path forward. Experience the art of decoding complexity, as each dataset unveils stories waiting to be told."
+
 
 
  ###  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;      [PowerBI](#powerbi) &nbsp;  |  &nbsp; [SQL](#sql)  &nbsp; | &nbsp;  [CaseStudy](#casestudy) &nbsp; | &nbsp; [Excel](#excel) 
