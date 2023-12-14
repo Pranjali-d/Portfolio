@@ -3,11 +3,8 @@
 
 <h2 align="center">  
 
- [PowerBI](#powerbi) &nbsp;  |  &nbsp; [SQL](#sql) &nbsp; | &nbsp;  [CaseStudy](#casestudy) &nbsp; | &nbsp; [Excel](#excel) 
+ [PowerBI](#powerbi) &nbsp;  |  &nbsp; [SQL](#sql) &nbsp; | &nbsp;  [CaseStudy](#casestudy) &nbsp; | &nbsp; [Excel](#excel)    </h2>
 
-</h2>
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  </br>
  
