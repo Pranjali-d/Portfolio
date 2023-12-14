@@ -1,9 +1,11 @@
 
-# 🗺 Portfolio
+<h1 align="center">    PORTFOLIO </h1>
 
+<h2 align="center">  
 
+ [PowerBI](#powerbi) &nbsp;  |  &nbsp; [SQL](#sql) &nbsp; | &nbsp;  [CaseStudy](#casestudy) &nbsp; | &nbsp; [Excel](#excel) 
 
- ###  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;      [PowerBI](#powerbi) &nbsp;  |  &nbsp; [SQL](#sql)  &nbsp; | &nbsp;  [CaseStudy](#casestudy) &nbsp; | &nbsp; [Excel](#excel) 
+</h2>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
