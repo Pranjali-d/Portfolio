@@ -1,5 +1,12 @@
+![profile_banner](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/749ef44e-345b-43cb-96a5-664c3d36c20c)
+
+
+
 
 <h1 align="center">    PORTFOLIO </h1>
+
+
+
 
 <h2 align="center">  
 
