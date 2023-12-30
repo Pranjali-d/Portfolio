@@ -1,12 +1,4 @@
-![profile_banner](https://github.com/Pranjali-d/Pranjali-d/assets/49934575/749ef44e-345b-43cb-96a5-664c3d36c20c)
-
-
-
-
 <h1 align="center">    PORTFOLIO </h1>
-
-
-
 
 <h2 align="center">  
 
@@ -22,14 +14,14 @@
 Workplace Analytics dashboard provides a quick and easy way to 
 conduct a broad diagnostic on 2 themes:
 
-+ company's "Collaboration culture"
-+ "Employee experience"
++ company's "<b>Collaboration culture</b>"
++ "<b>Employee experience</b>"
 
 </p>
 
-The dashboard empowers organizations to enhance work-life balance, streamline meetings, and identify potential burnout risks, fostering a more productive and engaged workforce.
+The dashboard empowers organizations to enhance work-life balance, <b>streamline meetings</b>, and identify potential <b>burnout risks</b>, fostering a more <b>productive and engaged workforce</b>.
   </br> 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br>
@@ -37,17 +29,17 @@ The dashboard empowers organizations to enhance work-life balance, streamline me
 
 ### [Telco Churn Analysis ](https://github.com/Pranjali-d/Telco_Customer_Churn_Analysis) 
 <img align="right" width="480" src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/Telco_churn.gif"/>
-The Telco Customer Churn Dashboard is a comprehensive analytical solution which offers a holistic view of customer dynamics.
+The Telco Customer Churn Dashboard is a comprehensive analytical solution that offers a holistic view of customer dynamics.
 
 </p>
-Actionable insights on churn rates, demographics, contract and service details, 
-and detailed analyses on churn reasons and revenue trends. 
+Actionable insights on <b>churn rates</b>, demographics, contract and service details, 
+and detailed analyses on churn reasons and <b>revenue trends.</b> 
 </p>
-Which  enables business to make informed decisions to mitigate churn and enhance customer satisfaction.
+Which  enables businesses to make informed decisions to mitigate churn and enhance <b>customer satisfaction.</b>
 </br> 
 </p>
 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br>
@@ -56,35 +48,35 @@ Which  enables business to make informed decisions to mitigate churn and enhance
 
 ### [Service Request Management  ](https://github.com/Pranjali-d/Service_request_management_analysis) 
 <img align="right" width="475" src="https://user-images.githubusercontent.com/49934575/244929101-7e1b1cf9-c74a-4bca-a4ac-f65c383e123b.png" />
-The Service Request Management Analysis provides representation of the overall health of the support area. 
+The Service Request Management Analysis provides a representation of the overall health of the support area. 
 </p>
-Key metrics such as year-over-year trends, request status,payments by region. 
+Key metrics such as <b>year-over-year trends</b>, request status and payments by region. 
 </p>
 And also insights on the number of requests, monthly service requests, average daily requests, and a breakdown of completed, pending, and canceled requests. 
 </br> 
 </p>
 
-> Dashbaord </br>
+> Dashboard </br>
 
 </br>
 </br>
 
 
 
-### [HR Attiration Dashbaord ](https://github.com/Pranjali-d/HR_powerBI_Report) 
+### [HR Attiration Dashboard ](https://github.com/Pranjali-d/HR_powerBI_Report) 
 <img align="right" width="475" src="https://user-images.githubusercontent.com/49934575/244920421-5550c8e6-eaa4-44db-bf78-6f5db7fedc7e.gif" />
 The HR Attrition Analytics Dashboard offers a comprehensive exploration
-of workforce metrics.  
+of <b>workforce metrics. </b> 
 
 </p>
 
 The project highlights areas for strategic HR interventions, 
-such as optimizing promotion timelines, 
+such as <b>optimizing promotion </b> timelines, 
 implementing performance-based layoffs, 
-and addressing job satisfaction concerns 
-to enhance overall workforce management.
+and addressing <b>job satisfaction </b>concerns 
+to enhance overall <b>workforce management.</b>
  </br> 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br>
@@ -92,7 +84,7 @@ to enhance overall workforce management.
 
 ### [Data Job Analysis ](https://github.com/Pranjali-d/Data_job_market_Analysis) 
 <img align="right" width="480" src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/data_job_gif.gif" />
-The Data Job Analysis project,offers a comprehensive exploration of diverse data job profiles and associated metrics in the job market, empowering users to gain valuable insights into the evolving landscape of data jobs, skills, and company dynamics.
+The Data Job Analysis project, offers a comprehensive exploration of diverse data job profiles and associated metrics in the job market, empowering users to gain valuable insights into the evolving landscape of data jobs, skills, and company dynamics.
 </p>
 Insights into average years of experience, salaries, and trends for various job positions, types, and skills.
 </p>
@@ -100,7 +92,7 @@ Analyzes company-specific metrics, such as industry-wise job distribution, avera
  </br> 
 </p>
 
-> Dashbaord </br>
+> Dashboard </br>
 
 </br>
 </br>
@@ -114,14 +106,14 @@ Analyzes company-specific metrics, such as industry-wise job distribution, avera
 
 ### [E-commerce Store Analysis](https://github.com/Pranjali-d/E-commerce-Analysis-SQL-Case-Study/blob/main/README.md) 
 <img align="right" width="375" src="https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/%E2%80%94Pngtree%E2%80%94set%20of%20e-commerce%20icon%20with_3702074.png" /> 
-Ecommerce project aimed to help grow the business and analyze performance along the way,
-worked through powerful analytics deep dives including traffic analysis and optimization,
-website measure and testing, channel mix, product level performance, user behaviour analysis.
+E-commerce project aimed to help grow the business and analyze performance along the way
+worked through powerful analytics deep dives including <b>traffic analysis</b> and <b>optimization</b>,
+<b>website measure and testing</b>, <b>channel mix</b>, <b>product level performance</b> and <b>user behavior analysis.</b>
 </br> </br>
  
  > <b> <u> Traffic Sources </u> </b> :  &nbsp; Top traffic sources  &nbsp; |  &nbsp; Conversion rates  &nbsp; |  &nbsp; Bid optimizations and Trend Analysis
 
- >  <b> Website Performances </b> :  &nbsp; Top website pages and entry pages  &nbsp; |  &nbsp; Bounce rates and lading page tests  &nbsp; |  &nbsp; Building conversion funnels and testing conversion paths
+ >  <b> Website Performances </b> :  &nbsp; Top website pages and entry pages  &nbsp; |  &nbsp; Bounce rates and landing page tests  &nbsp; |  &nbsp; Building conversion funnels and testing conversion paths
 
  >  <b> Channel Portfolio Management </b> : &nbsp;  Analyzing channel portfolios &nbsp; |  &nbsp; Comparing channel characteristics  &nbsp; |  &nbsp; Cross-channel bid optimization  &nbsp;  |  &nbsp;  Analyzing direct, brand-driven traffic
 
@@ -137,12 +129,12 @@ website measure and testing, channel mix, product level performance, user behavi
 
 ### [World's Oldest Businesses ](https://github.com/Pranjali-d/Worlds_oldest_buisness-sql-case-study) 
 <img align="right" width="200" src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/images.jpg" />
-Project delves into the world's oldest businesses, unveils intriguing insights on detailed breakdown of categories and continents. 
+The project delves into the world's oldest businesses and unveils intriguing insights on detailed breakdowns of categories and continents. 
 </p>
 Exploration of the longevity and diversity of businesses across the globe, with a focus on industries such as Banking & Finance, Distillers, Vintners, & Breweries, and Aviation & Transport.
 </br> </br>
 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br> 
@@ -162,7 +154,7 @@ Secondary KPIs include insights into casualties based on vehicle type, monthly t
 
 </br> 
 
-> Dashbaord </br>
+> Dashboard </br>
 
      
 </br>
@@ -178,7 +170,7 @@ Presents insights into revenue and expense variations across regions, year-over-
 
 </br> </br>
 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br>
@@ -188,13 +180,13 @@ Presents insights into revenue and expense variations across regions, year-over-
 
 ### [Sales Dashboard](https://github.com/Pranjali-d/Sales_Dashbaord) 
 <img align="right" width="500" height="300" src="https://raw.githubusercontent.com/Pranjali-d/Pranjali-d/main/resources/excel_db_sales%20(1).png" />
-Dashboard offers a dynamic and comprehensive analysis of sales, profitability, units sold, and sales versus margin trends. 
+The Dashboard offers a dynamic and comprehensive analysis of sales, profitability, units sold, and sales versus margin trends. 
 </p>
 Designed to empower data-driven decision-making by providing insights into various aspects of sales performance. Through interactive visualizations, users can track units sold, assess profitability, and analyze trends to optimize overall sales strategies and financial outcomes.
 
 </br> </br>
 
-> Dashbaord </br>
+> Dashboard </br>
 
      
 </br>
@@ -219,7 +211,7 @@ Dashboard with key performance indicators (KPIs) and metrics to explore call tre
   </br> 
   </br>
 
-> Dashbaord </br>
+> Dashboard </br>
 
 
  </br> 
@@ -238,7 +230,7 @@ Key performance indicators (KPIs) and metrics to explore customer profiles, iden
   </br>
   </br>
 
-> Dashbaord </br>
+> Dashboard </br>
      
 
  </br> 
@@ -250,12 +242,12 @@ Key performance indicators (KPIs) and metrics to explore customer profiles, iden
 <img align="right" width="500" src="https://user-images.githubusercontent.com/100661121/242836307-7d865f96-024a-4e87-8d06-e4b7dabe76b6.png" />
 The Diversity & Inclusion project at the telecom client aimed to address the challenge of slow progress in improving gender balance at the executive management level. 
 </p>
-Key performance indicators (KPIs) in hiring, promotion, performance, and turnover
+Key performance indicators (KPIs) in <b>hiring, promotion, performance, and turnover </b>
 
  </br> 
  </br>
 
-> Dashbaord </br>
+> Dashboard </br>
      
 </br>
 </br>
